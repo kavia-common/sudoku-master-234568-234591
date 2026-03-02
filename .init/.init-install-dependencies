@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/sudoku-master-234568-234591/sudoku_frontend"
+}
